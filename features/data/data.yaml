@@ -1,0 +1,107 @@
+record1:
+  username: test
+  password: test
+  triptype: oneway
+  passengers: 1
+  departfrom: 5
+  departmonth: 3
+  departday: 3
+  arriveon: 6
+  arrivemonth: 8
+  arriveday: 10
+  serviceclass: Business
+  airline: 1
+  selectdepart: Blue Skies Airlines$561$97$7:10
+  selectreturn: Pangea Airlines$652$114$16:37
+  pass0_fn: testfirstname10
+  pass0_ln: testlasttname10
+  pass0_meal: Hindu
+  pass1_fn: testfirstname11
+  pass1_ln: testlastname11
+  pass1_meal: Bland
+  cardtype: Visa
+  cardno: 3456900129238943
+  cardexpmonth: '04'
+  cardexpyear: '2007'
+  pass0_mn: testmiddlename10
+  addrline1: Beverly Hills
+  addrline2: Portland Ave
+  city: Miami
+  state: AZ
+  zip: 34701
+  country: CANADA
+
+record2:
+  username: selenium
+  password: selenium
+  triptype: roundtrip
+  passengers: 2
+  departfrom: 2
+  departmonth: 4
+  departday: 4
+  arriveon: 5
+  arrivemonth: 6
+  arriveday: 6
+  serviceclass: First
+  airline: 2
+  selectdepart: Pangea Airlines$362$274$9:17
+  selectreturn: Unified Airlines$633$303$18:44
+  pass0_fn: testfirstname20
+  pass0_ln: testlasttname20
+  pass0_meal: Hindu
+  pass1_fn: testfirstname21
+  pass1_ln: testlastname21
+  pass1_meal: Bland
+  pass2_fn: testfirstname22
+  pass2_ln: testlastname22
+  pass2_meal: Kosher
+  cardtype: Discover
+  cardno: 1323530896099761
+  cardexpmonth: '07'
+  cardexpyear: '2008'
+  pass0_mn: testmiddlename20
+  addrline1: York Ave
+  addrline2: 2nd Street
+  city: AppleValley
+  state: OH
+  zip: 45918
+  country: FRANCE
+
+record3:
+  username: tutorial
+  password: tutorial
+  triptype: roundtrip
+  passengers: 3
+  departfrom: 2
+  departmonth: 4
+  departday: 4
+  arriveon: 5
+  arrivemonth: 6
+  arriveday: 6
+  serviceclass: First
+  airline: 2
+  selectdepart: Pangea Airlines$362$274$9:17
+  selectreturn: Unified Airlines$633$303$18:44
+  pass0_fn: testfirstname30
+  pass0_ln: testlasttname30
+  pass0_meal: Hindu
+  pass1_fn: testfirstname31
+  pass1_ln: testlastname31
+  pass1_meal: Bland
+  pass2_fn: testfirstname32
+  pass2_ln: testlastname32
+  pass2_meal: Kosher
+  pass3_fn: testfirstname32
+  pass3_ln: testlastname32
+  pass3_meal: Vegetarian
+  cardtype: Diners Club
+  cardno: 1223978574359438
+  cardexpmonth: '09'
+  cardexpyear: '2010'
+  pass0_mn: testmiddlename30
+  addrline1: Rodero Drive
+  addrline2: Farnam Circle
+  city: Toronto
+  state: NY
+  zip: 14089
+  country: GREECE
