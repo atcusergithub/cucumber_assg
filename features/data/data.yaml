@@ -105,3 +105,33 @@ record3:
   state: NY
   zip: 14089
   country: GREECE
+
+record4:
+  username: tutorial
+  password: tutorial
+  triptype: oneway
+  passengers: 0
+  departfrom: 5
+  departmonth: 3
+  departday: 3
+  arriveon: 6
+  arrivemonth: 8
+  arriveday: 10
+  serviceclass: Business
+  airline: 1
+  selectdepart: Blue Skies Airlines$561$97$7:10
+  selectreturn: Pangea Airlines$652$114$16:37
+  pass0_fn: testfirstname40
+  pass0_ln: testlasttname40
+  pass0_meal: Bland
+  cardtype: Visa
+  cardno: 3456900142878943
+  cardexpmonth: '04'
+  cardexpyear: '2007'
+  pass0_mn: testmiddlename40
+  addrline1: Plymouth Hills
+  addrline2: Blomington Ave
+  city: Miami
+  state: AK
+  zip: 34501
+  country: CANADA
